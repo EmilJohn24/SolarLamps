@@ -1,0 +1,7 @@
+# IntelliJ folders
+.idea/*
+out/*
+*.iml
+
+# Java-related
+*.class 
